@@ -22,9 +22,6 @@
 
 <img src="assets/project-siem.svg" width="100%" alt="SIEM Threat Detection Platform with custom Splunk correlation rules, real-time monitoring dashboards, log correlation and alerting workflows aligned with SOC operations and MITRE ATT&CK.">
 
-<img src="assets/title-experience.svg" width="100%" alt="07 Experience — Where I have contributed.">
-<img src="assets/experience.svg" width="100%" alt="Experience: Gurugram Police Cyber Security Intern GPCSSI26 June to July 2026; ShadowFox February to March 2025; Hacktify CyberSecurity March to April 2025; ServiceNow University SmartBridge September to October 2025; Parul University Admissions Assistant April to June 2024; InternsUP June to August 2023.">
-
 <img src="assets/title-toolkit.svg" width="100%" alt="04 Toolkit — The tools I reach for.">
 <img src="assets/tech-constellation-v2.svg" width="100%" alt="Cybersecurity skills: digital forensics, SOC operations, Splunk, log analysis, threat detection, MITRE ATT&CK, Cyber Kill Chain, OSINT, Ghidra, Wireshark, Python, Bash, Linux, Windows, TCP/IP, DNS, DHCP, routing and switching, packet analysis, malware analysis, vulnerability assessment, disk and memory forensics, email header analysis.">
 
@@ -38,6 +35,10 @@
 
 <img src="assets/title-certifications.svg" width="100%" alt="06 Certifications — Credentials and current learning.">
 <img src="assets/certifications.svg" width="100%" alt="Certifications: CEH v13 and CRTA in progress; ISO IEC 27001:2022, 27701:2025 and 42001:2023 Lead Auditor; CSEDP; Digital Personal Data Protection Act 2023; ZTCA; CBTP; CRPO.">
+
+<img src="assets/title-experience.svg" width="100%" alt="07 Experience — Where I have contributed.">
+<img src="assets/experience.svg" width="100%" alt="Experience: Gurugram Police Cyber Security Intern GPCSSI26 June to July 2026; ShadowFox February to March 2025; Hacktify CyberSecurity March to April 2025; ServiceNow University SmartBridge September to October 2025; Parul University Admissions Assistant April to June 2024; InternsUP June to August 2023.">
+
 
 <img src="assets/title-education.svg" width="100%" alt="08 Education — The foundations behind the work.">
 <img src="assets/education.svg" width="100%" alt="Education: B.Tech Cyber Security, Parul University July 2023 to May 2027; Higher Secondary at St Paul Junior College; Secondary at Reliance Foundation School; languages English, Hindi, Marathi and Gujarati.">
