@@ -1,153 +1,53 @@
-<!--
-  Om Awachat | Cybersecurity Profile
-  Profile README for github.com/omawachat07
--->
+<a href="https://github.com/omawachat07">
+  <img src="assets/om-hero-banner.svg" width="100%" alt="Om Awachat — Cybersecurity Professional, Digital Forensics, SOC Operations and Threat Intelligence.">
+</a>
 
 <p align="center">
-  <img src="assets/cybersecurity-profile-banner.svg" width="100%" alt="Om Awachat — Cybersecurity Analyst | Digital Forensics | SOC Operations | Threat Intelligence">
+  <a href="https://github.com/omawachat07"><img src="https://img.shields.io/badge/GitHub-omawachat07-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub profile"></a>
+  <a href="https://www.linkedin.com/in/om-awachat/"><img src="https://img.shields.io/badge/LinkedIn-Om_Awachat-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn profile"></a>
+  <a href="mailto:omawachat786@gmail.com"><img src="https://img.shields.io/badge/Email-omawachat786%40gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F8F0F3" alt="Email Om"></a>
 </p>
 
-<h1 align="center">OM AWACHAT</h1>
-<h3 align="center">Cybersecurity Analyst · DFIR · SOC Operations · Threat Intelligence</h3>
+<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Om.">
+<img src="assets/about-intro.svg" width="100%" alt="About Om Awachat: Cybersecurity professional with exposure to DFIR, SOC operations, malware analysis, reverse engineering and vulnerability assessment. Based in Nagpur, Maharashtra.">
 
+<img src="assets/title-recognition.svg" width="100%" alt="02 Recognition — Challenges, CTFs and milestones.">
+<img src="assets/achievement-motif-v2.svg" width="100%" alt="Achievements: First place EncipherX 4.0 with Nagpur Police; second place Cyber Commando CTF 26; 15th rank Dark CTF; top 5 percent Infosys University Hackathon; top 15 percent Shaastra 2026 IIT Madras; Rotaract Foundation Service Director 2024–25.">
+
+<img src="assets/title-work.svg" width="100%" alt="03 Selected work — Security built to investigate.">
+
+<img src="assets/project-darkweb.svg" width="100%" alt="AI-Powered Dark Web Threat Intelligence Platform using Tor, NLP and graph analytics for threat intelligence collection, correlation, threat actor profiling and automated threat classification.">
+
+<img src="assets/project-aegis.svg" width="100%" alt="AEGIS V3 AI Red Teaming and Security Assessment Platform for automated LLM security testing, adversarial attack simulation, prompt injection and jailbreak resilience assessment.">
+
+<img src="assets/project-siem.svg" width="100%" alt="SIEM Threat Detection Platform with custom Splunk correlation rules, real-time monitoring dashboards, log correlation and alerting workflows aligned with SOC operations and MITRE ATT&CK.">
+
+<img src="assets/title-experience.svg" width="100%" alt="07 Experience — Where I have contributed.">
+<img src="assets/experience.svg" width="100%" alt="Experience: Gurugram Police Cyber Security Intern GPCSSI26 June to July 2026; ShadowFox February to March 2025; Hacktify CyberSecurity March to April 2025; ServiceNow University SmartBridge September to October 2025; Parul University Admissions Assistant April to June 2024; InternsUP June to August 2023.">
+
+<img src="assets/title-toolkit.svg" width="100%" alt="04 Toolkit — The tools I reach for.">
+<img src="assets/tech-constellation-v2.svg" width="100%" alt="Cybersecurity skills: digital forensics, SOC operations, Splunk, log analysis, threat detection, MITRE ATT&CK, Cyber Kill Chain, OSINT, Ghidra, Wireshark, Python, Bash, Linux, Windows, TCP/IP, DNS, DHCP, routing and switching, packet analysis, malware analysis, vulnerability assessment, disk and memory forensics, email header analysis.">
+
+<img src="assets/title-commits.svg" width="100%" alt="05 Commit log — A year of learning and building.">
 <p align="center">
-  <a href="https://www.linkedin.com/in/om-awachat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:omawachat786@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/omawachat07"><img src="https://img.shields.io/badge/GitHub-omawachat07-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <img src="https://raw.githubusercontent.com/omawachat07/omawachat07/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake">
 </p>
-
----
-
-## 01 · About me
-
-I'm an aspiring **Cybersecurity Professional** with practical exposure to digital forensics and incident response (DFIR), SOC operations, malware analysis, reverse engineering, and vulnerability assessment.
-
-I enjoy investigating security events, understanding attacker techniques, and building practical security workflows. My hands-on learning includes **Splunk, Ghidra, Wireshark, Python, Linux, network analysis, and cybersecurity labs**. I am also exploring cloud security and AI-enabled threat intelligence.
-
-- 🔎 Interested in **SOC, DFIR, Threat Detection, Incident Response, and OSINT**
-- 🛡️ Learning through internships, CTFs, practical labs, and security projects
-- 🧠 Focused on evidence-led analysis, clear documentation, and continuous learning
-- 📍 Nagpur, Maharashtra, India
-
-## 02 · Areas of expertise
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Digital_Forensics-1F6FEB?style=flat-square" alt="Digital Forensics">
-  <img src="https://img.shields.io/badge/SOC_Operations-1F6FEB?style=flat-square" alt="SOC Operations">
-  <img src="https://img.shields.io/badge/Incident_Response-1F6FEB?style=flat-square" alt="Incident Response">
-  <img src="https://img.shields.io/badge/Threat_Intelligence-1F6FEB?style=flat-square" alt="Threat Intelligence">
-  <img src="https://img.shields.io/badge/OSINT-1F6FEB?style=flat-square" alt="OSINT">
-  <img src="https://img.shields.io/badge/Network_Security-1F6FEB?style=flat-square" alt="Network Security">
-  <img src="https://img.shields.io/badge/Ethical_Hacking-1F6FEB?style=flat-square" alt="Ethical Hacking">
-  <img src="https://img.shields.io/badge/Malware_Analysis-1F6FEB?style=flat-square" alt="Malware Analysis">
-  <img src="https://img.shields.io/badge/Reverse_Engineering-1F6FEB?style=flat-square" alt="Reverse Engineering">
-  <img src="https://img.shields.io/badge/Web_Application_Security-1F6FEB?style=flat-square" alt="Web Application Security">
-  <img src="https://img.shields.io/badge/Cloud_Security_Learning-1F6FEB?style=flat-square" alt="Cloud Security">
+  <img src="https://github-readme-stats.vercel.app/api?username=omawachat07&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC&icon_color=C77B9B&custom_title=GitHub%20at%20a%20glance" width="400" alt="GitHub stats for omawachat07">
 </p>
 
-## 03 · Technical toolkit
+<img src="assets/title-certifications.svg" width="100%" alt="06 Certifications — Credentials and current learning.">
+<img src="assets/certifications.svg" width="100%" alt="Certifications: CEH v13 and CRTA in progress; ISO IEC 27001:2022, 27701:2025 and 42001:2023 Lead Auditor; CSEDP; Digital Personal Data Protection Act 2023; ZTCA; CBTP; CRPO.">
 
-**Security & analysis**
+<img src="assets/title-education.svg" width="100%" alt="08 Education — The foundations behind the work.">
+<img src="assets/education.svg" width="100%" alt="Education: B.Tech Cyber Security, Parul University July 2023 to May 2027; Higher Secondary at St Paul Junior College; Secondary at Reliance Foundation School; languages English, Hindi, Marathi and Gujarati.">
 
-<p>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk">
-  <img src="https://img.shields.io/badge/Ghidra-BA0C2F?style=for-the-badge" alt="Ghidra">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-EF3B2D?style=for-the-badge" alt="MITRE ATT&CK">
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Top 10">
-</p>
-
-**Programming, operating systems & networking**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/TCP%2FIP-34495E?style=for-the-badge" alt="TCP/IP">
-  <img src="https://img.shields.io/badge/DNS_%2F_DHCP-34495E?style=for-the-badge" alt="DNS and DHCP">
-</p>
-
-**Other skills:** Packet analysis · Disk and memory forensics · Email header analysis · Vulnerability assessment · Dynamic and static malware analysis · Google Dorking · Routing and switching
-
-## 04 · Experience
-
-| Role | Organization | Period |
-|---|---|---|
-| Cyber Security Intern | Gurugram Police (GPCSSI26) | Jun 2026 – Jul 2026 |
-| Cyber Security Intern | ShadowFox | Feb 2025 – Mar 2025 |
-| Penetration Testing Intern | Hacktify CyberSecurity | Mar 2025 – Apr 2025 |
-| ServiceNow Virtual Internship | ServiceNow University / SmartBridge | Sep 2025 – Oct 2025 |
-| Admissions Assistant | Parul University | Apr 2024 – Jun 2024 |
-| Cyber Security Intern | InternsUP | Jun 2023 – Aug 2023 |
-
-**Highlights:** Cybercrime investigation exposure, IPDR and tower-location-data analysis, vulnerability assessment, network reconnaissance, web security testing, traffic analysis, directory enumeration, malware-analysis labs, ServiceNow administration, and workflow training.
-
-## 05 · Featured projects
-
-### 🕵️ AI-Powered Dark Web Threat Intelligence Platform
-A cybersecurity intelligence platform using Tor, NLP, and graph analytics to collect, analyze, and correlate dark-web threat intelligence.
-
-- Threat-actor profiling and automated threat classification
-- Supports proactive cyber threat detection
-
-### 🤖 AEGIS V3 — AI Red Teaming & Security Assessment Platform
-An AI-powered red-teaming platform for automated LLM security testing and adversarial attack simulation.
-
-- Vulnerability assessment and reporting workflows
-- Evaluates model resilience against prompt-injection and jailbreak attacks
-
-### 📊 SIEM Threat Detection Platform
-A security monitoring project focused on practical SOC detection and incident analysis.
-
-- Custom Splunk correlation rules and real-time monitoring dashboards
-- Log-correlation and alerting workflows aligned with SOC operations and MITRE ATT&CK
-
-## 06 · Certifications & learning
-
-- Certified Ethical Hacking (CEH v13) — EC-Council *(Pursuing)*
-- Certified Red Team Analyst (CRTA) — Cyberwarfare *(Pursuing)*
-- ISO/IEC 27001:2022 · ISO/IEC 27701:2025 · ISO/IEC 42001:2023 Lead Auditor — MASTERMIND
-- Certified Social Engineering Defense Practitioner (CSEDP) — TheSecOps Group
-- Digital Personal Data Protection Act 2023 — DPDPA.com
-- Zero Trust Cyber Associate (ZTCA) — Zscaler Inc
-- Certified BlueTeam Practitioner (CBTP) — TheSecOps Group
-- Certificate Ransomware Protection Officer (CRPO) — EU Cyber Academy
-
-## 07 · Achievements
-
-- 🥇 **1st Place** — EncipherX 4.0, in collaboration with Nagpur Police (St. Vincent Pallotti College)
-- 🥈 **2nd Place** — Cyber Commando CTF 26 (Crypto Forensic Technology)
-- **15th Rank** — Dark CTF (Crackon Community)
-- **Top 5%** — Infosys University Hackathon (Synchrony & Cybersecurity Centre of Excellence)
-- **Top 15%** — Shaastra 2026 (IIT Madras)
-- **Foundation Service Director** — Rotaract Club of Parul University (2024–2025)
-
-## 08 · Education
-
-**B.Tech — Cyber Security**  
-Parul University, Vadodara, Gujarat · *July 2023 – May 2027*
-
-**Higher Secondary Education (12th)**  
-St. Paul Junior College, Nagpur, Maharashtra · *June 2022 – May 2023*
-
-**Secondary School Education (10th)**  
-Reliance Foundation School, Nagpur, Maharashtra · *June 2020 – July 2021*
-
-## 09 · Beyond cybersecurity
-
-- **Languages:** English, Hindi, Marathi, Gujarati
-- **Strengths:** Communication, analytical thinking, problem-solving, critical thinking, attention to detail, ethical mindset, teamwork, time management, and leadership
-- **Activities:** Cultural event management, volunteering, community meetups, and cybersecurity workshops
-
----
-
-## Let's connect
-
+<img src="assets/title-connect.svg" width="100%" alt="09 Connect — Let's build something worth explaining.">
 <p align="center">
-  <a href="mailto:omawachat786@gmail.com"><img src="https://img.shields.io/badge/Email-omawachat786%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Om"></a>
-  <a href="https://www.linkedin.com/in/om-awachat/"><img src="https://img.shields.io/badge/LinkedIn-Om_Awachat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/omawachat07"><img src="https://img.shields.io/badge/GitHub-omawachat07-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="mailto:omawachat786@gmail.com"><img src="https://img.shields.io/badge/Email-omawachat786%40gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F8F0F3" alt="Email Om Awachat"></a>
+  <a href="https://www.linkedin.com/in/om-awachat/"><img src="https://img.shields.io/badge/LinkedIn-Om_Awachat-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn Om Awachat"></a>
 </p>
 
-<p align="center"><i>“Investigate with curiosity. Defend with evidence. Build with purpose.”</i></p>
+<a href="https://github.com/omawachat07">
+  <img src="assets/footer-signature-v2.svg" width="100%" alt="Om Awachat — Investigate with curiosity. Defend with evidence.">
+</a>
