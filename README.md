@@ -37,20 +37,7 @@ The projects below are maintained in **private GitHub repositories**. Their sour
 
 <img src="assets/title-experience.svg" width="100%" alt="04 Experience — Cybersecurity work and practical experience.">
 
-**Cyber Security Intern — Gurugram Police (GPCSSI26)** · *June–July 2026*  
-Exposure to cybercrime investigations, DFIR procedures, evidence analysis, IPDR analysis and investigative methods.
-
-**Penetration Testing Intern — Hacktify CyberSecurity** · *March–April 2025*  
-Practised OWASP Top 10 assessments and web security testing, including SQL injection and cross-site scripting.
-
-**Cyber Security Intern — ShadowFox** · *February–March 2025*  
-Worked on vulnerability assessment, network reconnaissance, traffic analysis and directory enumeration in practical labs.
-
-**ServiceNow Virtual Intern — ServiceNow University / SmartBridge** · *September–October 2025*  
-Worked with ServiceNow Administration, Flow Designer, Automated Test Framework and ITSM workflows.
-
-**Cyber Security Intern — InternsUP** · *June–August 2023*  
-Worked on network scanning, reconnaissance, vulnerability assessment, threat analysis and incident-response simulations.
+<img src="assets/experience.svg" width="100%" alt="Professional experience cards: Gurugram Police, ServiceNow University and SmartBridge, Hacktify CyberSecurity, ShadowFox, Parul University and InternsUP, with roles, dates and key responsibilities.">
 
 <img src="assets/title-certifications.svg" width="100%" alt="05 Certifications — Security credentials and current learning.">
 
