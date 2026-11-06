@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="03 Selected work: Security built to investigate.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="03 Selected work: Products, not assignments.">
   <defs>
     <linearGradient id="tw-line" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="1160" y2="0">
       <stop offset="0" stop-color="#C77B9B"/><stop offset=".6" stop-color="#701A3D"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
@@ -27,7 +27,7 @@
     <text class="tw-serif" x="38" y="84" font-size="44" font-weight="300" letter-spacing="-1" fill="#F8F0F3">Security built to <tspan font-style="italic" fill="url(#tw-sheen)">investigate.</tspan></text>
   </g>
   <g class="tw-in tw-d3">
-    <text class="tw-mono" x="1160" y="34" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#B6A3AC">DFIR · AI SECURITY · SIEM</text>
+    <text class="tw-mono" x="1160" y="34" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#B6A3AC">PRIVATE BUILDS · DEFENSIVE SECURITY</text>
   </g>
   <path class="tw-draw" d="M40 106 H1160" stroke="url(#tw-line)" stroke-width="1"/>
   <circle cx="40" cy="106" r="7" fill="url(#tw-pulse)" opacity="0">
