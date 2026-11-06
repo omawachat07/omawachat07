@@ -1,5 +1,5 @@
 <a href="https://github.com/omawachat07">
-  <img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/om-hero-banner.svg" width="100%" alt="Om Awachat — Cybersecurity Analyst. Investigate with curiosity. Defend with evidence.">
+  <img src="assets/om-hero-banner.svg" width="100%" alt="Om Awachat — Cybersecurity Analyst. Investigate with curiosity. Defend with evidence.">
 </a>
 
 <p align="center">
@@ -8,39 +8,39 @@
   <a href="mailto:omawachat786@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F8F0F3" alt="Email Om"></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Om.">
+<img src="assets/title-about.svg" width="100%" alt="01 About — Hello, I'm Om.">
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/about-intro.svg" width="100%" alt="Om Awachat — cybersecurity analyst from Nagpur, focused on DFIR, SOC operations, malware analysis and threat intelligence.">
+<img src="assets/about-intro.svg" width="100%" alt="Om Awachat — security engineering focus across detection engineering, digital forensics, email security, cloud security, threat intelligence and AI application security.">
 
 I build **defensive cybersecurity tools** with an emphasis on evidence, explainability and local-first workflows. My work spans **detection engineering, digital forensics, phishing investigation, cloud security, threat intelligence and LLM application security**. I’m especially interested in turning complex security signals into clear investigations and useful analyst workflows.
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-work.svg" width="100%" alt="02 Selected work — Products, not assignments.">
+<img src="assets/title-work.svg" width="100%" alt="02 Selected work — Products, not assignments.">
 
 The projects below are maintained in **private GitHub repositories**. Their source code is not public, but the summaries show the engineering problems and capabilities behind each build.
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/project-traceproof.svg" width="100%" alt="TraceProof — Windows detection engineering, 12 MITRE ATT&CK detection rules and 283 automated tests.">
+<img src="assets/project-traceproof.svg" width="100%" alt="TraceProof — Windows detection engineering, 12 MITRE ATT&CK detection rules and 283 automated tests.">
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/project-casetrace.svg" width="100%" alt="CaseTrace — local-first digital forensics workbench with evidence integrity, chain of custody and timeline reconstruction.">
+<img src="assets/project-casetrace.svg" width="100%" alt="CaseTrace — local-first digital forensics workbench with evidence integrity, chain of custody and timeline reconstruction.">
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/project-phishlens.svg" width="100%" alt="PhishLens — email security investigation with SPF, DKIM, DMARC, ARC, URL intelligence and safe attachment inspection.">
+<img src="assets/project-phishlens.svg" width="100%" alt="PhishLens — email security investigation with SPF, DKIM, DMARC, ARC, URL intelligence and safe attachment inspection.">
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/project-cloudsentry.svg" width="100%" alt="CloudSentry — cloud security posture analysis for Terraform and AWS CloudTrail with attack correlation and remediation verification.">
+<img src="assets/project-cloudsentry.svg" width="100%" alt="CloudSentry — cloud security posture analysis for Terraform and AWS CloudTrail with attack correlation and remediation verification.">
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/project-intelgraph.svg" width="100%" alt="IntelGraph — threat intelligence and OSINT platform with IOC correlation, evidence-backed graph and STIX 2.1 export.">
+<img src="assets/project-intelgraph.svg" width="100%" alt="IntelGraph — threat intelligence and OSINT platform with IOC correlation, evidence-backed graph and STIX 2.1 export.">
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/project-modelguard.svg" width="100%" alt="ModelGuard — LLM application security and red teaming with prompt-injection tests, tool controls and security benchmarks.">
+<img src="assets/project-modelguard.svg" width="100%" alt="ModelGuard — LLM application security and red teaming with prompt-injection tests, tool controls and security benchmarks.">
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-toolkit.svg" width="100%" alt="03 Toolkit — The tools I reach for.">
+<img src="assets/title-toolkit.svg" width="100%" alt="03 Toolkit — The tools I reach for.">
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/tech-constellation-v2.svg" width="100%" alt="Technologies used across private projects: Python, FastAPI, SQLite, SQLAlchemy, Windows Event Logs, MITRE ATT&CK, Terraform, AWS CloudTrail, NetworkX, PyVis, STIX 2.1 and LLM security testing.">
+<img src="assets/tech-constellation-v2.svg" width="100%" alt="Technologies used across private projects: Python, FastAPI, SQLite, SQLAlchemy, Windows Event Logs, MITRE ATT&CK, Terraform, AWS CloudTrail, NetworkX, PyVis, STIX 2.1 and LLM security testing.">
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-commits.svg" width="100%" alt="04 Commit log — A year of building.">
+<img src="assets/title-commits.svg" width="100%" alt="04 Commit log — A year of building.">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/omawachat07/omawachat07/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution activity snake">
 </p>
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-connect.svg" width="100%" alt="05 Connect — Let's build something worth explaining.">
+<img src="assets/title-connect.svg" width="100%" alt="05 Connect — Let's build something worth explaining.">
 
 If you work on **defensive security, DFIR, detection engineering or security tooling**, I’d be glad to connect.
 
@@ -50,5 +50,5 @@ If you work on **defensive security, DFIR, detection engineering or security too
 </p>
 
 <a href="https://github.com/omawachat07">
-  <img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/footer-signature-v2.svg" width="100%" alt="Om Awachat — Investigating systems. Building tools that defend them.">
+  <img src="assets/footer-signature-v2.svg" width="100%" alt="Om Awachat — Investigating systems. Building tools that defend them.">
 </a>
