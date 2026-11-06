@@ -1,1 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 390" width="1200" height="390" role="img" aria-label="05 / Professional Experience. Internships and roles listed in Om Awachat's resume"><defs><linearGradient id="b" x2="0" y2="1"><stop stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient><radialGradient id="g"><stop stop-color="#701A3D" stop-opacity=".6"/><stop offset="1" stop-color="#451126" stop-opacity="0"/></radialGradient></defs><rect width="1200" height="390" rx="18" fill="url(#b)"/><ellipse cx="1000" cy="0" rx="480" ry="300" fill="url(#g)"/><text x="58" y="48" fill="#C77B9B" font-family="monospace" font-size="12" letter-spacing="3">05 / PROFESSIONAL EXPERIENCE</text><g transform="translate(58 95)"><rect width="510" height="64" rx="9" fill="#190B12" stroke="#701A3D"/><circle cx="22" cy="23" r="4" fill="#C77B9B"/><text x="40" y="27" fill="#F8F0F3" font-family="Georgia,serif" font-size="18">Gurugram Police · Cyber Security Intern</text><text x="40" y="48" fill="#B6A3AC" font-family="monospace" font-size="10">GPCSSI26 · Jun–Jul 2026</text></g><g transform="translate(608 95)"><rect width="510" height="64" rx="9" fill="#190B12" stroke="#701A3D"/><circle cx="22" cy="23" r="4" fill="#C77B9B"/><text x="40" y="27" fill="#F8F0F3" font-family="Georgia,serif" font-size="18">ShadowFox · Cyber Security Intern</text><text x="40" y="48" fill="#B6A3AC" font-family="monospace" font-size="10">Feb–Mar 2025</text></g><g transform="translate(58 179)"><rect width="510" height="64" rx="9" fill="#190B12" stroke="#701A3D"/><circle cx="22" cy="23" r="4" fill="#C77B9B"/><text x="40" y="27" fill="#F8F0F3" font-family="Georgia,serif" font-size="18">Hacktify CyberSecurity · Penetration Testing</text><text x="40" y="48" fill="#B6A3AC" font-family="monospace" font-size="10">Mar–Apr 2025</text></g><g transform="translate(608 179)"><rect width="510" height="64" rx="9" fill="#190B12" stroke="#701A3D"/><circle cx="22" cy="23" r="4" fill="#C77B9B"/><text x="40" y="27" fill="#F8F0F3" font-family="Georgia,serif" font-size="18">ServiceNow Virtual Internship</text><text x="40" y="48" fill="#B6A3AC" font-family="monospace" font-size="10">ServiceNow University / SmartBridge · Sep–Oct 2025</text></g><g transform="translate(58 263)"><rect width="510" height="64" rx="9" fill="#190B12" stroke="#701A3D"/><circle cx="22" cy="23" r="4" fill="#C77B9B"/><text x="40" y="27" fill="#F8F0F3" font-family="Georgia,serif" font-size="18">Parul University · Admissions Assistant</text><text x="40" y="48" fill="#B6A3AC" font-family="monospace" font-size="10">Apr–Jun 2024</text></g><g transform="translate(608 263)"><rect width="510" height="64" rx="9" fill="#190B12" stroke="#701A3D"/><circle cx="22" cy="23" r="4" fill="#C77B9B"/><text x="40" y="27" fill="#F8F0F3" font-family="Georgia,serif" font-size="18">InternsUP · Cyber Security Intern</text><text x="40" y="48" fill="#B6A3AC" font-family="monospace" font-size="10">Jun–Aug 2023</text></g><text x="58" y="375" fill="#B6A3AC" font-family="monospace" font-size="10">INTERNSHIPS AND ROLES LISTED IN OM AWACHAT'S RESUME</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 570" width="1200" height="570" role="img" aria-label="Professional experience: Gurugram Police, ServiceNow University and SmartBridge, Hacktify CyberSecurity, ShadowFox, Parul University and InternsUP.">
+<defs>
+  <linearGradient id="exp-bg" x2="0" y2="1"><stop stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+  <radialGradient id="exp-glow"><stop stop-color="#701A3D" stop-opacity=".48"/><stop offset="1" stop-color="#451126" stop-opacity="0"/></radialGradient>
+  <linearGradient id="exp-edge"><stop stop-color="#C77B9B" stop-opacity=".9"/><stop offset="1" stop-color="#701A3D" stop-opacity=".2"/></linearGradient>
+  <pattern id="exp-grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#C77B9B" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="1200" height="570" rx="18" fill="url(#exp-bg)"/>
+<rect width="1200" height="570" rx="18" fill="url(#exp-grid)"/>
+<ellipse cx="1030" cy="0" rx="500" ry="270" fill="url(#exp-glow)"/>
+<text x="52" y="42" fill="#C77B9B" font-family="monospace" font-size="12" letter-spacing="3">FIELD EXPERIENCE / 2023—2026</text>
+<text x="1148" y="42" text-anchor="end" fill="#B6A3AC" font-family="monospace" font-size="10" letter-spacing="2">INVESTIGATION · SECURITY · ENGINEERING</text>
+<path d="M52 62H1148" stroke="url(#exp-edge)" stroke-width="1"/>
+<!-- Gurugram Police -->
+<g transform="translate(52 88)">
+ <rect width="536" height="132" rx="12" fill="#190B12" stroke="#701A3D"/>
+ <rect x="1" y="1" width="534" height="130" rx="11" fill="none" stroke="#C77B9B" stroke-opacity=".08"/>
+ <circle cx="26" cy="27" r="5" fill="#E5B5C7"/><text x="44" y="31" fill="#C77B9B" font-family="monospace" font-size="10" letter-spacing="1.6">01 / LAW ENFORCEMENT</text>
+ <text x="510" y="31" text-anchor="end" fill="#B6A3AC" font-family="monospace" font-size="10">JUN—JUL 2026</text>
+ <text x="24" y="66" fill="#F8F0F3" font-family="Georgia,serif" font-size="24">Gurugram Police</text>
+ <text x="24" y="87" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="13">Cyber Security Intern · GPCSSI26</text>
+ <text x="24" y="111" fill="#B6A3AC" font-family="Arial,sans-serif" font-size="11.5">DFIR procedures · Cybercrime investigations · Evidence and IPDR analysis</text>
+</g>
+<!-- ServiceNow -->
+<g transform="translate(612 88)">
+ <rect width="536" height="132" rx="12" fill="#190B12" stroke="#701A3D"/>
+ <rect x="1" y="1" width="534" height="130" rx="11" fill="none" stroke="#C77B9B" stroke-opacity=".08"/>
+ <circle cx="26" cy="27" r="5" fill="#C77B9B"/><text x="44" y="31" fill="#C77B9B" font-family="monospace" font-size="10" letter-spacing="1.6">02 / PLATFORM ENGINEERING</text>
+ <text x="510" y="31" text-anchor="end" fill="#B6A3AC" font-family="monospace" font-size="10">SEP—OCT 2025</text>
+ <text x="24" y="66" fill="#F8F0F3" font-family="Georgia,serif" font-size="24">ServiceNow University</text>
+ <text x="24" y="87" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="13">Virtual Intern · SmartBridge</text>
+ <text x="24" y="111" fill="#B6A3AC" font-family="Arial,sans-serif" font-size="11.5">ServiceNow Administration · Flow Designer · ATF · ITSM workflows</text>
+</g>
+<!-- Hacktify -->
+<g transform="translate(52 240)">
+ <rect width="536" height="132" rx="12" fill="#190B12" stroke="#701A3D"/>
+ <rect x="1" y="1" width="534" height="130" rx="11" fill="none" stroke="#C77B9B" stroke-opacity=".08"/>
+ <circle cx="26" cy="27" r="5" fill="#C77B9B"/><text x="44" y="31" fill="#C77B9B" font-family="monospace" font-size="10" letter-spacing="1.6">03 / APPLICATION SECURITY</text>
+ <text x="510" y="31" text-anchor="end" fill="#B6A3AC" font-family="monospace" font-size="10">MAR—APR 2025</text>
+ <text x="24" y="66" fill="#F8F0F3" font-family="Georgia,serif" font-size="24">Hacktify CyberSecurity</text>
+ <text x="24" y="87" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="13">Penetration Testing Intern</text>
+ <text x="24" y="111" fill="#B6A3AC" font-family="Arial,sans-serif" font-size="11.5">OWASP Top 10 · SQL injection · Cross-site scripting · Web security testing</text>
+</g>
+<!-- ShadowFox -->
+<g transform="translate(612 240)">
+ <rect width="536" height="132" rx="12" fill="#190B12" stroke="#701A3D"/>
+ <rect x="1" y="1" width="534" height="130" rx="11" fill="none" stroke="#C77B9B" stroke-opacity=".08"/>
+ <circle cx="26" cy="27" r="5" fill="#C77B9B"/><text x="44" y="31" fill="#C77B9B" font-family="monospace" font-size="10" letter-spacing="1.6">04 / SECURITY OPERATIONS</text>
+ <text x="510" y="31" text-anchor="end" fill="#B6A3AC" font-family="monospace" font-size="10">FEB—MAR 2025</text>
+ <text x="24" y="66" fill="#F8F0F3" font-family="Georgia,serif" font-size="24">ShadowFox</text>
+ <text x="24" y="87" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="13">Cyber Security Intern</text>
+ <text x="24" y="111" fill="#B6A3AC" font-family="Arial,sans-serif" font-size="11.5">Vulnerability assessment · Network reconnaissance · Traffic analysis</text>
+</g>
+<!-- Parul -->
+<g transform="translate(52 392)">
+ <rect width="536" height="132" rx="12" fill="#190B12" stroke="#701A3D"/>
+ <rect x="1" y="1" width="534" height="130" rx="11" fill="none" stroke="#C77B9B" stroke-opacity=".08"/>
+ <circle cx="26" cy="27" r="5" fill="#C77B9B"/><text x="44" y="31" fill="#C77B9B" font-family="monospace" font-size="10" letter-spacing="1.6">05 / OPERATIONS</text>
+ <text x="510" y="31" text-anchor="end" fill="#B6A3AC" font-family="monospace" font-size="10">APR—JUN 2024</text>
+ <text x="24" y="66" fill="#F8F0F3" font-family="Georgia,serif" font-size="24">Parul University</text>
+ <text x="24" y="87" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="13">Admissions Assistant</text>
+ <text x="24" y="111" fill="#B6A3AC" font-family="Arial,sans-serif" font-size="11.5">Processed 500+ applications with accuracy and attention to detail</text>
+</g>
+<!-- InternsUP -->
+<g transform="translate(612 392)">
+ <rect width="536" height="132" rx="12" fill="#190B12" stroke="#701A3D"/>
+ <rect x="1" y="1" width="534" height="130" rx="11" fill="none" stroke="#C77B9B" stroke-opacity=".08"/>
+ <circle cx="26" cy="27" r="5" fill="#C77B9B"/><text x="44" y="31" fill="#C77B9B" font-family="monospace" font-size="10" letter-spacing="1.6">06 / CYBERSECURITY</text>
+ <text x="510" y="31" text-anchor="end" fill="#B6A3AC" font-family="monospace" font-size="10">JUN—AUG 2023</text>
+ <text x="24" y="66" fill="#F8F0F3" font-family="Georgia,serif" font-size="24">InternsUP</text>
+ <text x="24" y="87" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="13">Cyber Security Intern</text>
+ <text x="24" y="111" fill="#B6A3AC" font-family="Arial,sans-serif" font-size="11.5">Network scanning · Vulnerability assessment · Threat analysis · IR labs</text>
+</g>
+<text x="52" y="552" fill="#B6A3AC" font-family="monospace" font-size="10" letter-spacing="1.5">PRACTICAL EXPERIENCE ACROSS INCIDENT RESPONSE, APPSEC, SECURITY OPERATIONS AND TECHNICAL DELIVERY</text>
+</svg>
