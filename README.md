@@ -14,7 +14,7 @@
 
 I build **defensive cybersecurity tools** with an emphasis on evidence, explainability and local-first workflows. My work spans **detection engineering, digital forensics, phishing investigation, cloud security, threat intelligence and LLM application security**. I’m especially interested in turning complex security signals into clear investigations and useful analyst workflows.
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-work.svg" width="100%" alt="03 Selected work — Products, not assignments.">
+<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-work.svg" width="100%" alt="02 Selected work — Products, not assignments.">
 
 The projects below are maintained in **private GitHub repositories**. Their source code is not public, but the summaries show the engineering problems and capabilities behind each build.
 
@@ -30,17 +30,17 @@ The projects below are maintained in **private GitHub repositories**. Their sour
 
 <img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/project-modelguard.svg" width="100%" alt="ModelGuard — LLM application security and red teaming with prompt-injection tests, tool controls and security benchmarks.">
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-toolkit.svg" width="100%" alt="04 Toolkit — The tools I reach for.">
+<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-toolkit.svg" width="100%" alt="03 Toolkit — The tools I reach for.">
 
 <img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/tech-constellation-v2.svg" width="100%" alt="Technologies used across private projects: Python, FastAPI, SQLite, SQLAlchemy, Windows Event Logs, MITRE ATT&CK, Terraform, AWS CloudTrail, NetworkX, PyVis, STIX 2.1 and LLM security testing.">
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-commits.svg" width="100%" alt="05 Commit log — A year of building.">
+<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-commits.svg" width="100%" alt="04 Commit log — A year of building.">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/omawachat07/omawachat07/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution activity snake">
 </p>
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-connect.svg" width="100%" alt="06 Connect — Let's build something worth explaining.">
+<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-connect.svg" width="100%" alt="05 Connect — Let's build something worth explaining.">
 
 If you work on **defensive security, DFIR, detection engineering or security tooling**, I’d be glad to connect.
 
