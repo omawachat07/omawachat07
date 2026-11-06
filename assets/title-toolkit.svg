@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="04 Toolkit: The tools I investigate with.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="04 Toolkit: The tools I reach for.">
   <defs>
     <linearGradient id="tt-line" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="1160" y2="0">
       <stop offset="0" stop-color="#C77B9B"/><stop offset=".6" stop-color="#701A3D"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
@@ -27,7 +27,7 @@
     <text class="tt-serif" x="38" y="84" font-size="44" font-weight="300" letter-spacing="-1" fill="#F8F0F3">The tools I <tspan font-style="italic" fill="url(#tt-sheen)">investigate with.</tspan></text>
   </g>
   <g class="tt-in tt-d3">
-    <text class="tt-mono" x="1160" y="34" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#B6A3AC">DFIR · SOC · NETWORKS · MALWARE</text>
+    <text class="tt-mono" x="1160" y="34" text-anchor="end" font-size="10.5" letter-spacing="2.4" fill="#B6A3AC">SECURITY · ENGINEERING · INFRASTRUCTURE</text>
   </g>
   <path class="tt-draw" d="M40 106 H1160" stroke="url(#tt-line)" stroke-width="1"/>
   <circle cx="40" cy="106" r="7" fill="url(#tt-pulse)" opacity="0">
