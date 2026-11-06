@@ -13,22 +13,6 @@ const fmtMonth = new Intl.DateTimeFormat("en-GB", { month: "short", timeZone: "U
 const toDate = (iso) => new Date(`${iso}T00:00:00Z`);
 const plural = (n, word) => `${n.toLocaleString("en-GB")} ${word}${n === 1 ? "" : "s"}`;
 
-function demoData() {
-  // Deterministic pseudo-random series — used only when real data is unavailable.
-  const end = new Date(Date.UTC(new Date().getUTCFullYear(), new Date().getUTCMonth(), new Date().getUTCDate()));
-  const start = new Date(end.getTime() - 364 * DAY_MS);
-  start.setUTCDate(start.getUTCDate() - start.getUTCDay());
-  let seed = 7;
-  const rand = () => ((seed = (seed * 16807) % 2147483647) / 2147483647);
-  const days = [];
-  for (let t = start.getTime(); t <= end.getTime(); t += DAY_MS) {
-    const r = rand();
-    const count = r < 0.45 ? 0 : Math.round(r * r * 14);
-    days.push({ date: new Date(t).toISOString().slice(0, 10), count, level: count === 0 ? 0 : Math.min(4, Math.ceil(count / 3.5)) });
-  }
-  return { demo: true, days };
-}
-
 async function loadData() {
   try {
     const res = await fetch("data/contributions.json", { cache: "no-cache" });
