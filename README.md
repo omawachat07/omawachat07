@@ -5,66 +5,34 @@
 <p align="center">
   <a href="https://github.com/omawachat07"><img src="https://img.shields.io/badge/GitHub-omawachat07-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/om-awachat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn"></a>
-  <a href="mailto:omawachat786@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F8F0F3" alt="Email"></a>
+  <a href="mailto:omawachat786@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F8F0F3" alt="Email"></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-about.svg" width="100%" alt="01 About">
 
-<p align="center"><strong>Curious about how attacks happen — and how to find the evidence.</strong></p>
+<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/about-intro.svg" width="100%" alt="Om Awachat — cybersecurity analyst focused on digital forensics, SOC operations and threat analysis">
 
-I’m **Om Awachat**, an aspiring cybersecurity analyst from Nagpur, India. I’m building practical skills across **digital forensics, SOC operations, threat intelligence and malware analysis**. I enjoy investigating how systems behave, connecting small clues, and turning technical findings into clear security insights.
+I’m **Om Awachat**, a cybersecurity practitioner interested in building practical defensive tools. My work sits at the intersection of **digital forensics, detection engineering, threat intelligence, cloud security and AI application security**. I care about evidence-led analysis, clear technical reasoning and security workflows that are useful beyond a demo.
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/about-intro.svg" width="100%" alt="Cybersecurity analyst introduction">
+<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-work.svg" width="100%" alt="02 Selected private projects">
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-recognition.svg" width="100%" alt="02 Recognition">
+<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/projects-private.svg" width="100%" alt="Six private GitHub projects: TraceProof for Windows detection engineering, CaseTrace for digital forensics, PhishLens for email security, CloudSentry for cloud security, IntelGraph for threat intelligence and OSINT, and ModelGuard for LLM application security.">
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/achievement-motif-v2.svg" width="100%" alt="Cybersecurity competitions and achievements">
+The projects below are developed in **private GitHub repositories**. Their summaries are shown here to communicate the engineering focus; the source code is not publicly accessible.
 
-A few milestones I’m proud of:
+<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-toolkit.svg" width="100%" alt="03 Engineering focus">
 
-- **1st place** — EncipherX 4.0, with Nagpur Police
-- **2nd place** — Cyber Commando CTF26
-- **15th rank** — Dark CTF
-- **Top 5%** — Infosec University Hackathon
-- **Top 15%** — Shaastra 2026, IIT Madras
+**Security domains**
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-work.svg" width="100%" alt="03 Selected work">
+Detection engineering · SOC triage · DFIR · Email security · Threat intelligence · OSINT · Cloud security · Static analysis · LLM red teaming
 
-I’m most interested in projects that combine investigation, automation and practical security testing.
+**Technologies used across these builds**
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/project-darkweb.svg" width="100%" alt="AI-powered dark web threat intelligence platform">
+Python · FastAPI · SQLite · React · TypeScript · Windows Event Logs · MITRE ATT&CK · STIX 2.1 · Terraform · AWS CloudTrail · NetworkX
 
-**Dark Web Threat Intelligence** — Exploring how Tor collection, NLP and graph analysis can help correlate threat activity and profile actors.
+<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-connect.svg" width="100%" alt="04 Connect">
 
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/project-aegis.svg" width="100%" alt="AEGIS V3 AI red teaming and security assessment platform">
-
-**AEGIS V3 · AI Red Teaming** — A platform concept for testing LLM security with adversarial prompts, prompt-injection scenarios and resilience checks.
-
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/project-siem.svg" width="100%" alt="SIEM threat detection platform">
-
-**SIEM Threat Detection** — Splunk dashboards and correlation rules designed to surface suspicious activity and map alerts to MITRE ATT&CK.
-
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-toolkit.svg" width="100%" alt="04 Toolkit">
-
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/tech-constellation-v2.svg" width="100%" alt="Core cybersecurity tools and technical interests">
-
-**Core focus:** DFIR · SOC workflows · Splunk · Wireshark · Ghidra · Python · Linux · Windows · Network analysis · MITRE ATT&CK · OSINT · Vulnerability assessment
-
-I’m continuing to deepen my understanding of cloud security, web application security and incident response.
-
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-certifications.svg" width="100%" alt="05 Learning and credentials">
-
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/certifications.svg" width="100%" alt="Cybersecurity certifications and current learning">
-
-**Selected credentials:** ISO/IEC 27001, 27701 and 42001 Lead Auditor · CSEDP · ZTCA · CBTP · CRPO · DPDP Act 2023. **Currently pursuing:** CEH v13 and CRTA.
-
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-experience.svg" width="100%" alt="06 Practical experience">
-
-My learning has been shaped by internships and hands-on environments with **Gurugram Police, ShadowFox, Hacktify CyberSecurity and InternsUP**, alongside a ServiceNow virtual internship. These experiences introduced me to investigation workflows, reconnaissance, vulnerability assessment, web security testing and operational tooling.
-
-<img src="https://raw.githubusercontent.com/omawachat07/omawachat07/main/assets/title-connect.svg" width="100%" alt="07 Connect">
-
-If you’re working on cybersecurity, digital forensics or security research, I’d be glad to connect.
+I’m open to connecting with security practitioners, engineers and teams working on defensive security, digital investigations and security tooling.
 
 <p align="center">
   <a href="mailto:omawachat786@gmail.com"><img src="https://img.shields.io/badge/EMAIL-omawachat786%40gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F8F0F3" alt="Email Om"></a>
