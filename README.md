@@ -25,6 +25,8 @@
 <img src="assets/title-toolkit.svg" width="100%" alt="04 Toolkit — The tools I reach for.">
 <img src="assets/tech-constellation-v2.svg" width="100%" alt="Cybersecurity skills: digital forensics, SOC operations, Splunk, log analysis, threat detection, MITRE ATT&CK, Cyber Kill Chain, OSINT, Ghidra, Wireshark, Python, Bash, Linux, Windows, TCP/IP, DNS, DHCP, routing and switching, packet analysis, malware analysis, vulnerability assessment, disk and memory forensics, email header analysis.">
 
+**Additional technical skills:** Security monitoring · OSI Model · Incident handling · SIEM · Google Dorking · Cloud computing · Digital footprint analysis · Ethical hacking fundamentals · Web application security (basic) · Cloud security (pursuing).
+
 <img src="assets/title-commits.svg" width="100%" alt="05 Commit log — A year of learning and building.">
 <p align="center">
   <img src="https://raw.githubusercontent.com/omawachat07/omawachat07/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution snake">
@@ -36,12 +38,23 @@
 <img src="assets/title-certifications.svg" width="100%" alt="06 Certifications — Credentials and current learning.">
 <img src="assets/certifications.svg" width="100%" alt="Certifications: CEH v13 and CRTA in progress; ISO IEC 27001:2022, 27701:2025 and 42001:2023 Lead Auditor; CSEDP; Digital Personal Data Protection Act 2023; ZTCA; CBTP; CRPO.">
 
+**Credentials listed in the resume:** Certified Ethical Hacking (CEH v13) — EC-Council *(pursuing)* · Certified Red Team Analyst (CRTA) — Cyberwarfare *(pursuing)* · ISO/IEC 27001:2022, ISO/IEC 27701:2025 and ISO/IEC 42001:2023 Lead Auditor — MASTERMIND · Certified Social Engineering Defense Practitioner (CSEDP) — TheSecOps Group · Digital Personal Data Protection Act 2023 — DPDPA.com · Zero Trust Cyber Associate (ZTCA) — Zscaler Inc. · Certified BlueTeam Practitioner (CBTP) — TheSecOps Group · Certificate Ransomware Protection Officer (CRPO) — EU Cyber Academy.
+
 <img src="assets/title-experience.svg" width="100%" alt="07 Experience — Where I have contributed.">
 <img src="assets/experience.svg" width="100%" alt="Experience: Gurugram Police Cyber Security Intern GPCSSI26 June to July 2026; ShadowFox February to March 2025; Hacktify CyberSecurity March to April 2025; ServiceNow University SmartBridge September to October 2025; Parul University Admissions Assistant April to June 2024; InternsUP June to August 2023.">
+
+- **Gurugram Police (GPCSSI26):** Exposure to cybercrime investigations, DFIR procedures, IPDR analysis, tower-location data, cyber laws, evidence analysis and investigative methodologies.
+- **ShadowFox:** Vulnerability assessment, network reconnaissance, web security testing, traffic analysis, directory enumeration and lab-based malware analysis.
+- **Hacktify CyberSecurity:** OWASP Top 10 assessment, including SQL injection and XSS testing.
+- **ServiceNow University / SmartBridge:** ServiceNow Administration, Flow Designer, ATF, micro-certifications and ITSM workflows.
+- **Parul University:** Processed 500+ student applications with high accuracy.
+- **InternsUP:** Network scanning, reconnaissance, vulnerability assessment, threat analysis and incident-response simulations.
 
 
 <img src="assets/title-education.svg" width="100%" alt="08 Education — The foundations behind the work.">
 <img src="assets/education.svg" width="100%" alt="Education: B.Tech Cyber Security, Parul University July 2023 to May 2027; Higher Secondary at St Paul Junior College; Secondary at Reliance Foundation School; languages English, Hindi, Marathi and Gujarati.">
+
+**Additional information:** Soft skills include communication, analytical thinking, problem-solving, critical thinking, attention to detail, ethical mindset, teamwork, time management and leadership. Activities include cultural-event management, volunteering with Sakshamthad Foundation, organizing the PU Code3.0 Hackathon, TechExpo, workshops and community meetups; the resume also lists first place in a running sprint.
 
 <img src="assets/title-connect.svg" width="100%" alt="09 Connect — Let's build something worth explaining.">
 <p align="center">
