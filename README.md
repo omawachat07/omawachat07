@@ -1,17 +1,6 @@
-<table>
-  <tr>
-    <td width="68%" valign="middle">
-      <p><sub>CYBERSECURITY · DIGITAL FORENSICS · SOC</sub></p>
-      <h1>OM AWACHAT</h1>
-      <p><em>Investigate with curiosity. Defend with evidence.</em></p>
-      <p>DFIR / SOC / THREAT INTELLIGENCE / INCIDENT RESPONSE</p>
-      <p><a href="https://omawachat07.github.io/omawachat07/">PORTFOLIO</a> · <a href="https://github.com/omawachat07">GITHUB</a> · <a href="https://www.linkedin.com/in/om-awachat/">LINKEDIN</a></p>
-    </td>
-    <td width="32%" align="center" valign="middle">
-      <img src="assets/om-awachat-portrait.jpg" width="230" alt="Om Awachat portrait">
-    </td>
-  </tr>
-</table>
+<a href="https://omawachat07.github.io/omawachat07/">
+  <img src="assets/om-hero-banner.svg" width="100%" alt="Om Awachat — Cybersecurity Analyst. Investigate with curiosity. Defend with evidence.">
+</a>
 
 <p align="center">
   <a href="https://omawachat07.github.io/omawachat07/"><img src="https://img.shields.io/badge/Portfolio-Explore-701A3D?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Portfolio website"></a>
