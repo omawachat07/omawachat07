@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="TraceProof — Windows Detection Engineering &amp; SOC Triage">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#701A3D" stop-opacity=".62"/><stop offset="1" stop-color="#190B12" stop-opacity="0"/></radialGradient>
+  <linearGradient id="line"><stop stop-color="#C77B9B"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="270" rx="18" fill="url(#bg)"/>
+<ellipse cx="1040" cy="40" rx="410" ry="250" fill="url(#glow)"/>
+<path d="M42 35H1158" stroke="#701A3D" stroke-opacity=".65"/>
+<text x="58" y="72" fill="#C77B9B" font-family="monospace" font-size="15" letter-spacing="4">PRIVATE GITHUB BUILD  /  DEFENSIVE SECURITY</text>
+<text x="58" y="145" fill="#F8F0F3" font-family="Georgia,serif" font-size="52" font-weight="bold">TraceProof</text>
+<text x="60" y="185" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="23">Windows Detection Engineering &amp; SOC Triage</text>
+<text x="60" y="229" fill="#B6A3AC" font-family="Arial,sans-serif" font-size="17">12 MITRE ATT&amp;CK-mapped detections · Event normalization · Alert and case workflow</text>
+<path d="M58 250H1140" stroke="url(#line)" stroke-width="2"/>
+<circle cx="1138" cy="250" r="4" fill="#E5B5C7"/>
+</svg>
