@@ -52,17 +52,21 @@ Worked with ServiceNow Administration, Flow Designer, Automated Test Framework a
 **Cyber Security Intern — InternsUP** · *June–August 2023*  
 Worked on network scanning, reconnaissance, vulnerability assessment, threat analysis and incident-response simulations.
 
-<img src="assets/title-toolkit.svg" width="100%" alt="05 Toolkit — The tools I reach for.">
+<img src="assets/title-certifications.svg" width="100%" alt="05 Certifications — Security credentials and current learning.">
+
+<img src="assets/certifications.svg" width="100%" alt="Cybersecurity certifications: ISO/IEC 27001:2022, ISO/IEC 27701:2025 and ISO/IEC 42001:2023 Lead Auditor; CSEDP; CBTP; ZTCA; CRPO; Digital Personal Data Protection Act 2023; CEH v13 and CRTA in progress.">
+
+<img src="assets/title-toolkit.svg" width="100%" alt="06 Toolkit — The tools I reach for.">
 
 <img src="assets/tech-constellation-v2.svg" width="100%" alt="Technologies used across private projects: Python, FastAPI, SQLite, SQLAlchemy, Windows Event Logs, MITRE ATT&CK, Terraform, AWS CloudTrail, NetworkX, PyVis, STIX 2.1 and LLM security testing.">
 
-<img src="assets/title-commits.svg" width="100%" alt="05 Commit log — A year of building.">
+<img src="assets/title-commits.svg" width="100%" alt="07 Commit log — A year of building.">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/omawachat07/omawachat07/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution activity snake">
 </p>
 
-<img src="assets/title-connect.svg" width="100%" alt="06 Connect — Let's build something worth explaining.">
+<img src="assets/title-connect.svg" width="100%" alt="08 Connect — Let's build something worth explaining.">
 
 If you work on **defensive security, DFIR, detection engineering or security tooling**, I’d be glad to connect.
 
