@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="05 Commit log: A year of building.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="04 Commit log: A year of building.">
   <defs>
     <linearGradient id="tc-line" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="1160" y2="0">
       <stop offset="0" stop-color="#C77B9B"/><stop offset=".6" stop-color="#701A3D"/><stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
@@ -21,7 +21,7 @@
     @media (prefers-reduced-motion: reduce) { .tc-in { animation: none; } .tc-draw { animation: none; stroke-dashoffset: 0; } }
   </style>
   <g class="tc-in">
-    <text class="tc-mono" x="40" y="34" font-size="12" letter-spacing="3" fill="#C77B9B"><tspan fill="#E5B5C7">05</tspan>   COMMIT LOG</text>
+    <text class="tc-mono" x="40" y="34" font-size="12" letter-spacing="3" fill="#C77B9B"><tspan fill="#E5B5C7">04</tspan>   COMMIT LOG</text>
   </g>
   <g class="tc-in tc-d2">
     <text class="tc-serif" x="38" y="84" font-size="44" font-weight="300" letter-spacing="-1" fill="#F8F0F3">A trail of <tspan font-style="italic" fill="url(#tc-sheen)">continuous learning.</tspan></text>
