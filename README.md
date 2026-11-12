@@ -35,6 +35,10 @@ The projects below are maintained in **private GitHub repositories**. Their sour
 
 <img src="assets/project-modelguard.svg" width="100%" alt="ModelGuard — LLM application security and red teaming with prompt-injection tests, tool controls and security benchmarks.">
 
+<img src="assets/project-bountypilot.svg" width="100%" alt="BountyPilot — private defensive web application security assessment platform with strict authorization scope, bounded safe scanning, sanitized evidence and audit-ready reports.">
+
+<img src="assets/project-droidsleuth.svg" width="100%" alt="DroidSleuth — private static Android APK security assessment with archive hardening, manifest parsing, supervised decompilation, explainable risk scoring and PDF or JSON reports.">
+
 <img src="assets/title-experience.svg" width="100%" alt="04 Experience — Cybersecurity work and practical experience.">
 
 <img src="assets/experience-editorial.svg" width="100%" alt="Om Awachat experience: five editorial cybersecurity role cards for Gurugram Police, ServiceNow University and SmartBridge, Hacktify CyberSecurity, ShadowFox and InternsUP, with dates and concise responsibilities.">
