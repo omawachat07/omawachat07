@@ -31,6 +31,8 @@ The projects below are maintained in **private GitHub repositories**. Their sour
 
 <img src="assets/project-cloudsentry.svg" width="100%" alt="CloudSentry — cloud security posture analysis for Terraform and AWS CloudTrail with attack correlation and remediation verification.">
 
+<img src="assets/project-binaryscope.svg" width="100%" alt="BinaryScope — offline static analysis of PE, ELF and Mach-O files, cryptographic hashing, entropy, imported API profiling, YARA-X signatures and evidence-backed reports without executing samples.">
+
 <img src="assets/project-intelgraph.svg" width="100%" alt="IntelGraph — threat intelligence and OSINT platform with IOC correlation, evidence-backed graph and STIX 2.1 export.">
 
 <img src="assets/project-modelguard.svg" width="100%" alt="ModelGuard — LLM application security and red teaming with prompt-injection tests, tool controls and security benchmarks.">
