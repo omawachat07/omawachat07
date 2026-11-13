@@ -2,7 +2,7 @@
 <title id="title">BinaryScope — static binary analysis and malware triage workbench.</title><desc id="desc">Offline PE, ELF and Mach-O inspection; cryptographic hashes, entropy and YARA-X signature matching; evidence-backed reports without executing samples.</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/></linearGradient><radialGradient id="glow" cx="82%" cy="30%" r="60%"><stop stop-color="#701A3D" stop-opacity=".72"/><stop offset="1" stop-color="#451126" stop-opacity="0"/></radialGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#C77B9B" stroke-opacity=".07"/></pattern></defs>
 <rect width="1200" height="390" rx="18" fill="url(#bg)"/><rect width="1200" height="390" rx="18" fill="url(#grid)"/><ellipse cx="980" cy="60" rx="420" ry="330" fill="url(#glow)"/>
-<text x="58" y="43" fill="#C77B9B" font-family="monospace" font-size="12" letter-spacing="2.1">05 · REVERSE ENGINEERING · MALWARE TRIAGE · PUBLIC REPOSITORY</text>
+<text x="58" y="43" fill="#C77B9B" font-family="monospace" font-size="12" letter-spacing="2.1">05 · REVERSE ENGINEERING · MALWARE TRIAGE · PRIVATE REPOSITORY</text>
 <text x="58" y="111" fill="#F8F0F3" font-family="Georgia,serif" font-size="54">BinaryScope</text>
 <text x="60" y="151" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="21">Static binary analysis, with every finding tied to evidence.</text>
 <path d="M58 176H720" stroke="#701A3D" stroke-width="1"/>
