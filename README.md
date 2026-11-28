@@ -43,7 +43,7 @@ The projects below are maintained in **private GitHub repositories**. Their sour
 
 <img src="assets/title-experience.svg" width="100%" alt="04 Experience — Cybersecurity work and practical experience.">
 
-<img src="assets/experience-editorial.svg" width="100%" alt="Om Awachat experience: five editorial cybersecurity role cards for Gurugram Police, ServiceNow University and SmartBridge, Hacktify CyberSecurity, ShadowFox and InternsUP, with dates and concise responsibilities.">
+<img src="assets/experience-editorial.svg" width="100%" alt="Om Awachat experience: six role cards for Gurugram Police, ServiceNow University and SmartBridge, Hacktify CyberSecurity, ShadowFox, Parul University and InternsUP, with dates and responsibilities.">
 
 <img src="assets/title-certifications.svg" width="100%" alt="05 Certifications — Security credentials and current learning.">
 
