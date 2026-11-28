@@ -168,9 +168,9 @@ function initCustomCursor() {
     const dx = previous ? x - previous.x : 0;
     const dy = previous ? y - previous.y : 0;
     previous = { x, y };
-    const limit = reduceMotion.matches ? 0 : 6;
-    point.style.setProperty("--point-x", `${Math.max(-limit, Math.min(limit, dx * 0.16))}px`);
-    point.style.setProperty("--point-y", `${Math.max(-limit, Math.min(limit, dy * 0.16))}px`);
+    const limit = 8;
+    point.style.setProperty("--point-x", `${Math.max(-limit, Math.min(limit, dx * 2))}px`);
+    point.style.setProperty("--point-y", `${Math.max(-limit, Math.min(limit, dy * 2))}px`);
 
     cursor.classList.add("is-visible");
     cancelAnimationFrame(raf);
