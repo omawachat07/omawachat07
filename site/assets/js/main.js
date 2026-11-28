@@ -149,13 +149,36 @@ function initCustomCursor() {
   if (!point) return;
 
   document.documentElement.classList.add("has-custom-cursor");
-  let x = -100;
-  let y = -100;
-  let previous = null;
+  let targetX = -100;
+  let targetY = -100;
+  let frameX = -100;
+  let frameY = -100;
+  let hasPosition = false;
   let raf = 0;
-  let settleTimer = 0;
 
   const hide = () => cursor.classList.remove("is-visible");
+  const moveFrame = () => {
+    const dx = targetX - frameX;
+    const dy = targetY - frameY;
+    frameX += dx * 0.2;
+    frameY += dy * 0.2;
+
+    cursor.style.setProperty("--cursor-x", `${frameX}px`);
+    cursor.style.setProperty("--cursor-y", `${frameY}px`);
+    point.style.setProperty("--point-x", `${Math.max(-12, Math.min(12, targetX - frameX))}px`);
+    point.style.setProperty("--point-y", `${Math.max(-12, Math.min(12, targetY - frameY))}px`);
+
+    if (Math.abs(dx) > 0.1 || Math.abs(dy) > 0.1) {
+      raf = requestAnimationFrame(moveFrame);
+    } else {
+      frameX = targetX;
+      frameY = targetY;
+      point.style.setProperty("--point-x", "0px");
+      point.style.setProperty("--point-y", "0px");
+      raf = 0;
+    }
+  };
+
   document.addEventListener("pointermove", (event) => {
     if (event.pointerType === "touch") return;
     if (event.target instanceof Element && event.target.closest("input, textarea, select, [contenteditable='true']")) {
@@ -163,27 +186,16 @@ function initCustomCursor() {
       return;
     }
 
-    x = event.clientX;
-    y = event.clientY;
-    const dx = previous ? x - previous.x : 0;
-    const dy = previous ? y - previous.y : 0;
-    previous = { x, y };
-    const limit = 8;
-    point.style.setProperty("--point-x", `${Math.max(-limit, Math.min(limit, dx * 2))}px`);
-    point.style.setProperty("--point-y", `${Math.max(-limit, Math.min(limit, dy * 2))}px`);
+    targetX = event.clientX;
+    targetY = event.clientY;
+    if (!hasPosition) {
+      frameX = targetX;
+      frameY = targetY;
+      hasPosition = true;
+    }
 
     cursor.classList.add("is-visible");
-    cancelAnimationFrame(raf);
-    raf = requestAnimationFrame(() => {
-      cursor.style.setProperty("--cursor-x", `${x}px`);
-      cursor.style.setProperty("--cursor-y", `${y}px`);
-    });
-
-    clearTimeout(settleTimer);
-    settleTimer = setTimeout(() => {
-      point.style.setProperty("--point-x", "0px");
-      point.style.setProperty("--point-y", "0px");
-    }, 140);
+    if (!raf) raf = requestAnimationFrame(moveFrame);
   }, { passive: true });
   document.documentElement.addEventListener("pointerleave", hide);
   window.addEventListener("blur", hide);

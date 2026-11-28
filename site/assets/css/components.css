@@ -38,7 +38,6 @@
     background: #F0445E;
     box-shadow: 0 0 7px rgba(240, 68, 94, 0.7);
     transform: translate(calc(-50% + var(--point-x, 0px)), calc(-50% + var(--point-y, 0px)));
-    transition: transform 130ms var(--ease-out);
   }
   .has-custom-cursor, .has-custom-cursor *:not(input):not(textarea):not(select):not([contenteditable="true"]) {
     cursor: none !important;
