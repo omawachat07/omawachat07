@@ -3,6 +3,54 @@
    ========================================================================== */
 
 @layer components {
+  /* --- Reticle cursor ----------------------------------------------------- */
+  .custom-cursor {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 140;
+    width: 34px;
+    height: 34px;
+    opacity: 0;
+    pointer-events: none;
+    transform: translate3d(var(--cursor-x, -100px), var(--cursor-y, -100px), 0) translate(-50%, -50%);
+    transition: opacity 140ms ease;
+  }
+  .custom-cursor.is-visible { opacity: 1; }
+  .custom-cursor__corner {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    border-color: #F0445E;
+    border-style: solid;
+  }
+  .custom-cursor__corner--tl { top: 0; left: 0; border-width: 1px 0 0 1px; }
+  .custom-cursor__corner--tr { top: 0; right: 0; border-width: 1px 1px 0 0; }
+  .custom-cursor__corner--bl { bottom: 0; left: 0; border-width: 0 0 1px 1px; }
+  .custom-cursor__corner--br { right: 0; bottom: 0; border-width: 0 1px 1px 0; }
+  .custom-cursor__point {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: #F0445E;
+    box-shadow: 0 0 7px rgba(240, 68, 94, 0.7);
+    transform: translate(calc(-50% + var(--point-x, 0px)), calc(-50% + var(--point-y, 0px)));
+    transition: transform 130ms var(--ease-out);
+  }
+  .has-custom-cursor, .has-custom-cursor *:not(input):not(textarea):not(select):not([contenteditable="true"]) {
+    cursor: none !important;
+  }
+  @media (hover: none), (pointer: coarse) {
+    .custom-cursor { display: none; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .custom-cursor { transition: none; }
+    .custom-cursor__point { transition: none; }
+  }
+
   /* --- Opening sequence ---------------------------------------------------
      A 1.4s monogram draw that fades out on its own. pointer-events: none
      means the page underneath is usable from the first frame. */

@@ -142,6 +142,53 @@ function initScrollFallbacks() {
 }
 
 /* ------------------------------------------------------ Pointer effects --- */
+function initCustomCursor() {
+  const cursor = $("[data-cursor]");
+  if (!cursor || !finePointer.matches) return;
+  const point = $(".custom-cursor__point", cursor);
+  if (!point) return;
+
+  document.documentElement.classList.add("has-custom-cursor");
+  let x = -100;
+  let y = -100;
+  let previous = null;
+  let raf = 0;
+  let settleTimer = 0;
+
+  const hide = () => cursor.classList.remove("is-visible");
+  document.addEventListener("pointermove", (event) => {
+    if (event.pointerType === "touch") return;
+    if (event.target instanceof Element && event.target.closest("input, textarea, select, [contenteditable='true']")) {
+      hide();
+      return;
+    }
+
+    x = event.clientX;
+    y = event.clientY;
+    const dx = previous ? x - previous.x : 0;
+    const dy = previous ? y - previous.y : 0;
+    previous = { x, y };
+    const limit = reduceMotion.matches ? 0 : 6;
+    point.style.setProperty("--point-x", `${Math.max(-limit, Math.min(limit, dx * 0.16))}px`);
+    point.style.setProperty("--point-y", `${Math.max(-limit, Math.min(limit, dy * 0.16))}px`);
+
+    cursor.classList.add("is-visible");
+    cancelAnimationFrame(raf);
+    raf = requestAnimationFrame(() => {
+      cursor.style.setProperty("--cursor-x", `${x}px`);
+      cursor.style.setProperty("--cursor-y", `${y}px`);
+    });
+
+    clearTimeout(settleTimer);
+    settleTimer = setTimeout(() => {
+      point.style.setProperty("--point-x", "0px");
+      point.style.setProperty("--point-y", "0px");
+    }, 140);
+  }, { passive: true });
+  document.documentElement.addEventListener("pointerleave", hide);
+  window.addEventListener("blur", hide);
+}
+
 function initPointer() {
   if (!finePointer.matches || reduceMotion.matches) return;
 
@@ -302,6 +349,7 @@ function initTicker() {
 initNav();
 initReveals();
 initScrollFallbacks();
+initCustomCursor();
 initPointer();
 initCaseStudies();
 initSkills();
